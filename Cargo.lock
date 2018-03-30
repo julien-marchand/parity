@@ -162,7 +162,7 @@ dependencies = [
 [[package]]
 name = "bn"
 version = "0.4.4"
-source = "git+https://github.com/paritytech/bn#964b48fad5dffbaa124c2f10699e76faf5846c4e"
+source = "git+https://github.com/paritytech/bn#786c0d5643ca6456ec264ab832a6c25607a51681"
 dependencies = [
  "byteorder 1.2.1 (registry+https://github.com/rust-lang/crates.io-index)",
  "rand 0.4.2 (registry+https://github.com/rust-lang/crates.io-index)",
